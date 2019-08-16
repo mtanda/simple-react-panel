@@ -708,7 +708,7 @@
   resolved "https://registry.yarnpkg.com/@emotion/utils/-/utils-0.8.2.tgz#576ff7fb1230185b619a75d258cbc98f0867a8dc"
   integrity sha512-rLu3wcBWH4P5q1CGoSSH/i9hrXs7SlbRLkoq9IGuoPYNGQvDJ3pt/wmOM+XgYjIDRMVIdkUWt0RsfzF50JfnCw==
 
-"@grafana/data@6.4.0-alpha.44-ead2d6e88", "@grafana/data@^6.4.0-alpha.44-63f47fd8e":
+"@grafana/data@6.4.0-alpha.44-ead2d6e88", "@grafana/data@^6.4.0-alpha.44-0ba07720d":
   version "6.4.0-alpha.44-ead2d6e88"
   resolved "https://registry.yarnpkg.com/@grafana/data/-/data-6.4.0-alpha.44-ead2d6e88.tgz#93bde7f2ab735d2053b8da5614249a6edce02250"
   integrity sha512-1Ius7zPKcWFAtZk87IoZggUP4rqQcHF/ycsDt6lhxEyoQFCTtpgHx8WWAkraycWvjyOMG5yti9wCbls+SPdYjw==
@@ -789,7 +789,7 @@
     url-loader "^2.0.1"
     webpack "4.35.0"
 
-"@grafana/ui@^6.4.0-alpha.44-63f47fd8e":
+"@grafana/ui@^6.4.0-alpha.44-0ba07720d":
   version "6.4.0-alpha.44-ead2d6e88"
   resolved "https://registry.yarnpkg.com/@grafana/ui/-/ui-6.4.0-alpha.44-ead2d6e88.tgz#78b56b5c47718c1b8bb19e476155e07b9d9d977b"
   integrity sha512-fepw+yuoCkvv9ec4UEHFOZ208FXRC5/q42FJEt7pZVS3jwqDPfx31iPMDayWri214zSdkKqkbHNv7NkAEZqupw==
@@ -1130,9 +1130,9 @@
     "@types/express-serve-static-core" "*"
     "@types/serve-static" "*"
 
-"@types/grafana@https://git@github.com/CorpGlory/types-grafana.git":
+"@types/grafana@https://github.com/mtanda/types-grafana.git":
   version "4.6.3"
-  resolved "https://git@github.com/CorpGlory/types-grafana.git#cb727a51638566747a308b27c938e503c50080ab"
+  resolved "https://github.com/mtanda/types-grafana.git#9d92cd6b908d000673a6aca89b7f70e7cfefb1ae"
 
 "@types/html-minifier@*":
   version "3.5.3"
